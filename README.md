@@ -2,7 +2,7 @@
 
 
 <p align="left">
-I’m a junior software developer based in Greater London, with a background in medicine before moving into tech through the Northcoders JavaScript bootcamp.  
+I’m a junior software developer based in London, with a background in medicine before moving into tech through the Northcoders JavaScript bootcamp.  
 <br><br>
 I enjoy working across the stack with Python, JavaScript, TypeScript, React, and Node.js, and I’ve built full-stack applications with PostgreSQL, Expo, and Supabase. I’m comfortable with Agile ways of working, TDD, and Git-based collaboration.  
 <br><br>
